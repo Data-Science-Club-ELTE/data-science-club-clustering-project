@@ -19,3 +19,19 @@ Also, by visiting the above mentioned steps, we expect that by the end of the pr
 ## Documentation
 
 Background information and experimental details are recorded in [Documentation.md](./Documentation.md).
+
+## Team member responsibilities
+
+### Theoretical part (topics)
+
+|        |   |
+| :--- | :--- |
+| **Hellman, Barnabas** |  _"General Data Science Pipeline"_ and _"Unsupervised Learning"_  |
+| **Korchmaros, Daniel** |  _"Representation / Prototype Learning"_ |
+| **Hodali, Bishara** | _"Neural networks in general and in Clustering"_ and _"Why Self-Organizing Maps (SOM) can be considered as a neural network (and why not?!)"_ |
+| **Balogh, Mate** | _"K-means and Self-Organizing Maps"_ |
+| **Kairbekova, Saniya** | _"How the Self-Organizing Map was biologically inspired"_ |
+
+### Practical part
+
+_To be discussed..._
