@@ -16,13 +16,22 @@ Our analysis will be accompanied by visualizations whether it is related to simp
 
 Also, by visiting the above mentioned steps, we expect that by the end of the project we will have both theoretical knowledge and practical experience in the field of *Representation Learning*.
 
+## Instructions to run the notebooks
+
+```bash
+# 1. install required libraries
+pip install -r requirements.txt
+
+# 2. Run a selected `.ipynb` notebook from the project
+```
+
 ## Documentation
 
 Background information and experimental details are recorded in [Documentation.md](./Documentation.md).
 
 ## Team member responsibilities
 
-### Theoretical part (topics)
+### Theoretical part
 
 | Assignee               | Topic                                                                                                                                         | Status |
 | :--------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------- | :----: |
